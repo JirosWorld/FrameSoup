@@ -3,7 +3,7 @@
 
 **Remake of my oldschool 1998 HTML frames pages into a modern jQuery version**
 
-Modern HTML5/CSS3 ans jQuery remake of an HTML page I made in a time when there was no CSS yet and I tried to solve things with Frames and the Marquee tag and other terrible inline styles.
+Modern HTML5/CSS3 and jQuery remake of an HTML page I made in a time when there was no CSS yet and I tried to solve things with Frames and Tables (since there were no Divs either) and with the Marquee tag and other terrible inline styles.
 
 #### Preview
 
