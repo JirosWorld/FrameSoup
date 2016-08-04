@@ -3,11 +3,13 @@
 
 **Remake of my oldschool 1998 HTML frames pages into a modern jQuery version**
 
-Modern HTML5/CSS3 and jQuery remake of an HTML page I made in a time when there was no CSS yet and I tried to solve things with Frames and Tables (since there were no Divs either) and with the Marquee tag and other terrible inline styles.
+Modern HTML5/CSS3 and jQuery remake of an HTML page I made in a time when there was no CSS yet and I tried to solve things with Frames and Tables (since there were no Divs either). These were the times when the Marquee tag and other terrible inline styles were popular.
 
 #### Preview
 
-To test the result of this content, view it at [RawGit here](https://cdn.rawgit.com/jolarti/FrameSoup/master/framesoup.html) which serves raw files directly from GitHub with proper Content-Type headers.
+To test the result of this content, view it at [RawGit here](https://cdn.rawgit.com/jolarti/FrameSoup/master/framesoup.html). RawGit serves raw files directly from GitHub with proper Content-Type headers.
+
+&copy; 1998-2016 Jiro Ghianni  
 
 ---
 
